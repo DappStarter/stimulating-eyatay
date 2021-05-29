@@ -1,0 +1,17 @@
+{
+    "name": "rawkoin",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "RAWKOIN",
+        "/category/asset_value_tracking/core-token/symbol": "RAWK",
+        "/category/asset_value_tracking/core-token/decimals": "0",
+        "/category/asset_value_tracking/core-token/supply": "1000000",
+        "/category/collection/core-entity": true
+    }
+}
